@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146942549981",
+    "project_id": "game-5f37e",
+    "storage_bucket": "game-5f37e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146942549981:android:a79d635f69c3c51df9a034",
+        "android_client_info": {
+          "package_name": "com.example.new_super_jumper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwW7nbFSS0vxz1zbtcaAVfqaV77gi9Dt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
